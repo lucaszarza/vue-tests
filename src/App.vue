@@ -5,13 +5,13 @@
 </template>
 
 <script>
-import Counter from "./components/Counter.vue";
+import Counter from './components/Counter.vue';
 
 export default {
-  name: "App",
+  name: 'App',
   components: {
-    Counter,
-  },
+    Counter
+  }
 };
 </script>
 
